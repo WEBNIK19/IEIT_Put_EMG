@@ -1,2 +1,5 @@
 **/*.hdf5
 **/*.npy
+.ipynb_checkpoints/IEIT_Put_EMG-checkpoint.ipynb
+id_rsa
+id_rsa.pub
